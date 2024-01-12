@@ -1,0 +1,1 @@
+mkdir -p data/{finphrase,fiqa,news,risk,secfilings,stocktweets}
